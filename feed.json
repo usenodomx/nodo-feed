@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Declaración Anual 2025",
+    "body": "Tienes hasta el 30 de abril de 2026 para presentar tu Declaración Anual de Personas Físicas. No te quedes fuera.",
+    "tag": "SAT",
+    "tagColor": "emerald",
+    "date": "01 abr 2026",
+    "link": "https://www.sat.gob.mx/declaracion/74413/presenta-tu-declaracion-anual-de-personas-fisicas"
+  },
+  {
+    "title": "Portal del SAT",
+    "body": "Accede al portal principal del SAT: trámites, servicios, consultas y facturación electrónica.",
+    "tag": "SAT",
+    "tagColor": "blue",
+    "date": "",
+    "link": "https://www.sat.gob.mx/"
+  },
+  {
+    "title": "Facturación Electrónica",
+    "body": "Portal de facturación del SAT: genera, consulta y cancela tus CFDIs.",
+    "tag": "SAT",
+    "tagColor": "blue",
+    "date": "",
+    "link": "https://portal.facturaelectronica.sat.gob.mx/"
+  },
+  {
+    "title": "Diario Oficial de la Federación",
+    "body": "Consulta la normatividad fiscal vigente: RMF, decretos y disposiciones oficiales.",
+    "tag": "Fiscal",
+    "tagColor": "orange",
+    "date": "",
+    "link": "https://www.dof.gob.mx/"
+  }
+]
