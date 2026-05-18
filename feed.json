@@ -29,6 +29,7 @@
     "tag": "Fiscal",
     "tagColor": "orange",
     "date": "",
-    "link": "https://www.dof.gob.mx/"
+    "link": "https://www.dof.gob.mx/",
+    "imageUrl": "https://raw.githubusercontent.com/usenodomx/nodo-feed/main/images/dof.png"
   }
 ]
