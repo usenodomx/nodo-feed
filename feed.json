@@ -1,35 +1,38 @@
 [
   {
-    "title": "Declaración Anual 2025",
-    "body": "Tienes hasta el 30 de abril de 2026 para presentar tu Declaración Anual de Personas Físicas. No te quedes fuera.",
-    "tag": "SAT",
-    "tagColor": "emerald",
-    "date": "01 abr 2026",
-    "link": "https://www.sat.gob.mx/declaracion/74413/presenta-tu-declaracion-anual-de-personas-fisicas"
-  },
-  {
-    "title": "Portal del SAT",
-    "body": "Accede al portal principal del SAT: trámites, servicios, consultas y facturación electrónica.",
-    "tag": "SAT",
-    "tagColor": "blue",
-    "date": "",
-    "link": "https://www.sat.gob.mx/"
-  },
-  {
-    "title": "Facturación Electrónica",
-    "body": "Portal de facturación del SAT: genera, consulta y cancela tus CFDIs.",
-    "tag": "SAT",
-    "tagColor": "blue",
-    "date": "",
-    "link": "https://portal.facturaelectronica.sat.gob.mx/"
-  },
-  {
     "title": "Diario Oficial de la Federación",
-    "body": "Consulta la normatividad fiscal vigente: RMF, decretos y disposiciones oficiales.",
+    "body": "Consulta la normatividad fiscal vigente: RMF, decretos y disposiciones oficiales del SAT y otras autoridades.",
     "tag": "Fiscal",
     "tagColor": "orange",
     "date": "",
     "link": "https://www.dof.gob.mx/",
     "imageUrl": "https://raw.githubusercontent.com/usenodomx/nodo-feed/main/images/dof.png"
+  },
+  {
+    "title": "PTU 2025 vence el 30 de mayo",
+    "body": "Personas morales: 60 días tras declaración anual para pagar PTU a trabajadores. Base: art. 122 LFT.",
+    "tag": "Vencimiento",
+    "tagColor": "red",
+    "date": "17 may 2026",
+    "link": "https://www.sat.gob.mx/minisitio/RepartodeUtilidades/index.html",
+    "imageUrl": "https://raw.githubusercontent.com/usenodomx/nodo-feed/main/images/ptu-mayo.png"
+  },
+  {
+    "title": "SCJN avala impuesto del 10% a dividendos",
+    "body": "La Suprema Corte fijó jurisprudencia validando el ISR adicional del 10% sobre dividendos. Aplica desde reforma 2014.",
+    "tag": "Jurisprudencia",
+    "tagColor": "orange",
+    "date": "06 abr 2026",
+    "link": "https://jurislex.scjn.gob.mx/",
+    "imageUrl": "https://raw.githubusercontent.com/usenodomx/nodo-feed/main/images/scjn-dividendos.png"
+  },
+  {
+    "title": "9ª versión anticipada de la 1ª RMF 2026",
+    "body": "El SAT publicó el 14 de mayo nuevas modificaciones a la Resolución Miscelánea Fiscal; entre otras, se derogó la regla 2.12.4.",
+    "tag": "SAT",
+    "tagColor": "emerald",
+    "date": "14 may 2026",
+    "link": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/normatividad_rmf_rgce2026.html",
+    "imageUrl": "https://raw.githubusercontent.com/usenodomx/nodo-feed/main/images/rmf-9a-anticipada.png"
   }
 ]
